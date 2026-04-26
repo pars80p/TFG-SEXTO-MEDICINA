@@ -9,9 +9,9 @@ export default function AboutPage() {
         </div>
         
         <div className="flex flex-col md:flex-row gap-8 items-start md:items-stretch">
-          <div className="shrink-0 w-48 h-64 sm:w-56 sm:h-72 mx-auto md:mx-0 relative border-2 border-[#1A1A1A] bg-white shadow-[4px_4px_0_#1A1A1A] grayscale hover:grayscale-0 transition-all duration-500 overflow-hidden">
+          <div className="shrink-0 w-48 h-64 sm:w-56 sm:h-72 mx-auto md:mx-0 relative rounded-2xl border border-slate-200 bg-white overflow-hidden">
             <Image 
-              src="https://media.discordapp.net/attachments/1324443647927914575/1497606356297842818/111111111.jpg?ex=69ee221b&is=69ecd09b&hm=f91f5cfae8d42332b70eeb97e5a9601aa81f1d1976f132e3d659bf8541e44745&=&format=webp&width=715&height=958"
+              src="https://github.com/user-attachments/assets/f2fa908d-f90a-4c5a-ab6f-09d03980f8c1"
               alt="Mahdi Tajary"
               fill
               sizes="(max-width: 768px) 100vw, 33vw"
@@ -43,7 +43,7 @@ export default function AboutPage() {
               <div className="flex items-center gap-4">
                 <div className="w-16 h-16 relative shrink-0 mix-blend-multiply">
                   <Image 
-                    src="https://media.discordapp.net/attachments/1324443647927914575/1496837330215108648/image.png?ex=69eb55e5&is=69ea0465&hm=63d7f33901045f48239cf28d2b093c825f8e053ff8a4d7203c55982072568e82&=&format=webp&quality=lossless" 
+                    src="https://github.com/user-attachments/assets/ea2f6c6e-8225-4e9c-b262-0ea0d20f5dbe" 
                     alt="Universitat Autònoma de Barcelona" 
                     fill
                     sizes="64px"
@@ -59,7 +59,7 @@ export default function AboutPage() {
               <div className="flex items-center gap-4">
                 <div className="w-32 sm:w-48 h-16 relative shrink-0 mix-blend-multiply">
                   <Image 
-                    src="https://media.discordapp.net/attachments/1324443647927914575/1496837406341726338/image.png?ex=69eb55f7&is=69ea0477&hm=207a2c449ff790be524ac4f32f9decf8abbd9bd7a9ca4e351d4cba3d397ce5a2&=&format=webp&quality=lossless" 
+                    src="https://github.com/user-attachments/assets/57edd31e-f6fa-435b-a2c0-8791f924d515" 
                     alt="Hospital" 
                     fill
                     sizes="192px"

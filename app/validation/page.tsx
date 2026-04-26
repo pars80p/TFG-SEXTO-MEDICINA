@@ -42,7 +42,7 @@ export default function ValidationPage() {
             <div className="bg-slate-50 border border-slate-200 rounded overflow-hidden relative w-full mb-6 max-w-2xl mx-auto shadow-sm">
               <div className="overflow-x-auto w-full pb-1">
                 <Image 
-                  src="https://media.discordapp.net/attachments/1458671975479119943/1496890448982048889/NEJMoa2407086_f1.png?ex=69eed31d&is=69ed819d&hm=ea487ee7cc4d7283209a5bf19dc26d05af5febada561d86b28cf613e2f372dc4&=&format=webp&quality=lossless&width=851&height=958"
+                  src="https://github.com/user-attachments/assets/afb5152c-7a19-4f6a-84d9-444fc27a7834"
                   alt="Figura 1 - Progression-free Survival DESTINY-Breast06"
                   width={851}
                   height={958}
