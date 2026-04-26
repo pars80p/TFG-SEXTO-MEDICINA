@@ -1,0 +1,5 @@
+{
+  "name": "Matriz Tissunómica",
+  "description": "Sistema de Soporte a la Decisión Clínica (CDSS) para predecir la respuesta al Trastuzumab Deruxtecan (T-DXd) en cáncer de mama HER2-Low.",
+  "requestFramePermissions": []
+}
